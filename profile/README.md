@@ -23,7 +23,7 @@ At ByteMinds, we believe in utilizing cutting-edge technologies to deliver an im
 
 Ready to embark on your learning journey with ByteMinds? Browse our wide range of courses and start mastering the skills you need to succeed in the tech industry. Whether you're a beginner or an experienced developer looking to upskill, we have something for everyone.
 
-Visit our [website](byteminds.tech) to explore our courses and kickstart your learning today!
+Visit our [website](https://byteminds.tech) to explore our courses and kickstart your learning today!
 
 Connect with us on social media:
 - [Facebook](https://www.facebook.com/byteminds)
