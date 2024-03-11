@@ -1,10 +1,10 @@
-## Hi there 👋, We are ByteMinds
+## Hi there 👋,
 
 ### We offered online tutorial classes
 - Full-stack web development
 - Front-end web development
 - Landing page creation
-- SEO
+- Search Engine Optimization
 - Facebook Ads Management
 - Social Media Management
 
